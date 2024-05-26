@@ -1,0 +1,6 @@
+com\Question\QuestionService\controllers\QuestionController.class
+com\Question\QuestionService\QuestionServiceApplication.class
+com\Question\QuestionService\repositories\QuestionRepository.class
+com\Question\QuestionService\entities\Question.class
+com\Question\QuestionService\impl\QuestionServiceImpl.class
+com\Question\QuestionService\services\QuestionService.class
